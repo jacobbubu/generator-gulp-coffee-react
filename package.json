@@ -1,0 +1,27 @@
+{
+  "name": "generator-gulp-coffee-react",
+  "version": "0.1.0",
+  "description": "A yeoman generator to generate a boilerplate project for Gulp + coffee-script + React development",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobbubu/generator-gulp-coffee-react"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "yeoman",
+    "gulp",
+    "react",
+    "coffee-script"
+  ],
+  "files": [
+    "app"
+  ],
+  "author": "Rong Shen",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.22.4"
+  }
+}
